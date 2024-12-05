@@ -2,7 +2,7 @@
   "name": "TomCoin",
   "symbol": "TMC",
   "description": "A meme coin that's taking over the blockchain!",
-  "image": "https://raw.githubusercontent.com/Pippobaudoicon/TomCoin/refs/heads/main/bafkreicvyv4527umpxszw4rzliy7pyrq5dxwfdmgg6i2w2vmpgmmp22opu.jpeg?token=GHSAT0AAAAAAC3PP4ME6D6NHAR35IORFUYYZ2RQ4MA",
+  "image": "https://raw.githubusercontent.com/Pippobaudoicon/TomCoin/refs/heads/main/bafkreicvyv4527umpxszw4rzliy7pyrq5dxwfdmgg6i2w2vmpgmmp22opu.jpeg",
   "attributes": [
     {
       "trait_type": "Category",
@@ -16,7 +16,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Pippobaudoicon/TomCoin/refs/heads/main/bafkreicvyv4527umpxszw4rzliy7pyrq5dxwfdmgg6i2w2vmpgmmp22opu.jpeg?token=GHSAT0AAAAAAC3PP4ME6D6NHAR35IORFUYYZ2RQ4MA",
+        "uri": "https://raw.githubusercontent.com/Pippobaudoicon/TomCoin/refs/heads/main/bafkreicvyv4527umpxszw4rzliy7pyrq5dxwfdmgg6i2w2vmpgmmp22opu.jpeg",
         "type": "image/jpeg"
       }
     ]
